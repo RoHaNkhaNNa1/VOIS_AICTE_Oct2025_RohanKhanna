@@ -1,5 +1,5 @@
-Minor Project on AirBNB Data Analysis by Vodafone Idea Foundation & AICTE.
+Minor  Project on AIRBNB DataSet Analysis.
 
+Insights and patterns in data can be easily seen in the Visuals after performing Exploratorty Data Analysis and processing, resulting in making data-driven decisions for organizational growth and highlighting different aspects including customer ratings, reviews etc for enhancing experience in future.
 
-Processed, analzysed and performed exploratory data analyses on organisation's data for making data- driven decisions
-and find insights, to improve and enhance costumer experience with help of reviews and ratings
+This is a Submission of the Minor Project, a part of the VOIS for Tech program by Vodwqafone Idea Foundation.
